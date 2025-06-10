@@ -51,15 +51,4 @@ bash
 Copy
 Edit
 npm start
-Visit
 
-arduino
-Copy
-Edit
-http://localhost:3000
-🙌 Contributing
-We welcome contributions! If you'd like to help improve Model, please fork the repository, create a new branch, and submit a pull request.
-
-📫 Contact
-For questions or suggestions, feel free to reach out at:
-📧 adityarajpatil.dev@gmail.com
