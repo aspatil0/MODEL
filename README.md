@@ -86,7 +86,7 @@ model/
 │       ├── pages/
 │       └── App.js
 │
-├── server/              # Express backend
+├── server/              # Node backend
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
