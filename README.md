@@ -48,6 +48,18 @@ Model is a modern, MERN-stack-powered platform that brings together the networki
 
 > Add some screenshots here of your homepage, user profile, and dashboard to visually show the app in action.
 
+
+👨‍💻 Developer
+Adityaraj Patil
+
+MERN Stack Developer | Full Stack Engineer
+📍 Pune, India
+📧 [dt.devinetech@gmail.com]
+🌐 [Your LinkedIn] | [Your GitHub] | https://patiladityaraj.netlify.app/
+
+
+
+
 ## 📦 Installation Guide
 
 ```bash
@@ -93,3 +105,7 @@ model/
 │   └── index.js
 │
 └── README.md
+
+
+
+
