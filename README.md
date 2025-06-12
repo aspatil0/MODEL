@@ -55,7 +55,7 @@ Adityaraj Patil
 MERN Stack Developer | Full Stack Engineer
 📍 Pune, India
 📧 [dt.devinetech@gmail.com]
-🌐 [Your LinkedIn] | [Your GitHub] | https://patiladityaraj.netlify.app/
+🌐 [Your LinkedIn] | [Your GitHub] | https://patiladityaraj.netlify.app/   | https://devine-tech.netlify.app/
 
 
 
