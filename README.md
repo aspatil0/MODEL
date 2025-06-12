@@ -74,3 +74,22 @@ npm run dev
 # In another terminal
 cd client
 npm start
+
+
+
+
+model/
+│
+├── client/              # React frontend
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       └── App.js
+│
+├── server/              # Express backend
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── index.js
+│
+└── README.md
